@@ -1,7 +1,7 @@
 # Top presidents summit
 
-[Live site](https://top-president-app-masum691.netlify.app "LCO")
-https://top-president-app-masum691.netlify.app
+[Live site](hhttps://distracted-visvesvaraya-ac4edf.netlify.app/)
+https://distracted-visvesvaraya-ac4edf.netlify.app/
 
 - This website is made for the details of the top president.
 - There will be a conference with them recently
